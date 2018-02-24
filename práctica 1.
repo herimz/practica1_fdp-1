@@ -3,5 +3,7 @@
 int main(){
   printf("\nHola Mundo");
   printf("\hcjorgeluis\n")
+  printf("\hcHola Jorge\n")
+  printf("\hcAquí estoy modificando tu archivo\n")
   return 0;
 }
